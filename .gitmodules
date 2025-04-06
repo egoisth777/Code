@@ -1,0 +1,9 @@
+[submodule "Course-Projects"]
+	path = Course-Projects
+	url = git@github.com:egoisth777/Course-Projects.git
+[submodule "Data-Structures"]
+	path = Data-Structures
+	url = git@github.com:egoisth777/Data-Structures.git
+[submodule "Algorithm-LeetCode"]
+	path = Algorithm-LeetCode
+	url = git@github.com:egoisth777/Algorithm-LeetCode.git
