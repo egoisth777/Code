@@ -7,3 +7,6 @@
 [submodule "Algorithm-LeetCode"]
 	path = Algorithm-LeetCode
 	url = git@github.com:egoisth777/Algorithm-LeetCode.git
+[submodule "ChernoOpenGL"]
+	path = ChernoOpenGL
+	url = git@github.com:egoisth777/ChernoOpenGL.git
