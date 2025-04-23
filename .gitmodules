@@ -10,3 +10,6 @@
 [submodule "ChernoOpenGL"]
 	path = ChernoOpenGL
 	url = git@github.com:egoisth777/ChernoOpenGL.git
+[submodule "DemoCode"]
+	path = DemoCode
+	url = git@github.com:egoisth777/DemoCode.git
