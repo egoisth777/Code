@@ -13,3 +13,6 @@
 [submodule "DemoCode"]
 	path = DemoCode
 	url = git@github.com:egoisth777/DemoCode.git
+[submodule "X86Assembly"]
+	path = X86Assembly
+	url = git@github.com:egoisth777/X86Assembly.git
