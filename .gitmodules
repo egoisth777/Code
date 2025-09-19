@@ -16,3 +16,6 @@
 [submodule "X86Assembly"]
 	path = X86Assembly
 	url = git@github.com:egoisth777/X86Assembly.git
+[submodule "Project-Starters"]
+	path = Project-Starters
+	url = git@github.com:egoisth777/Project-Starters.git
