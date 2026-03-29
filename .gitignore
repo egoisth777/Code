@@ -1,0 +1,25 @@
+# Ignore all Mac-OS specific files
+**/.DS_Store
+**/.vscode
+**/.idea
+**/.cursor
+**/.nvim
+
+# Child repos (managed by .scripts/sync.sh, not git submodules)
+algo-leet/
+cherno-gl/
+data-structs/
+proj-starters/
+asm-x86/
+course-proj/
+demos/
+cis5150-la/
+cis5190-ml/
+cis5600-gfx/
+cis5810-cv/
+cis6600-maya/
+c-grammar/
+cpp-grammar/
+
+# Legacy (locked dir, remove manually)
+Course-Projects/
